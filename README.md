@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hashtag7532
+- 👋 Hi, I’m Parth Dodia
 - 👀 I’m interested in Web Development and Blockchain Technology
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ReactJs, Solidity and Hardhat
 - 💞️ I’m looking to collaborate on different projects on React
 - 📫 How to reach me - Mail ID - hashtag7532@gmail.com
 
