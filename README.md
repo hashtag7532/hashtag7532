@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 I’m currently a sophomore at Vellore Institute of Technology<br>🔭 I’m currently working on Blockchain fundamentals<br>👯 I’m looking to collaborate on Blockchain projects<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning to manage money (bohot kharcha ho rha hai 😅😅)<br>💬 Ask me about startup world!!<br>⚡ Fun fact : Huge HIMYM fan!!
+🧑‍🎓 I’m currently a sophomore at Vellore Institute of Technology<br>🔭 I’m currently working on Web Development <br>👯 I’m looking to take participate in Hackathons<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning android development and blockchain <br>💬 Ask me about Frontend Development<br>
 
 
 ## 🌐 Socials:
