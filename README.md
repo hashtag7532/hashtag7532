@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 I’m currently a sophomore at Vellore Institute of Technology<br>🔭 I’m currently working on Web Development <br>👯 I’m looking to take participate in Hackathons<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning android development and blockchain <br>💬 Ask me about Frontend Development<br>
+🧑‍🎓 I’m currently a sophomore at Vellore Institute of Technology<br>🔭 I’m currently working on Web Development <br>👯 I’m looking to take participate in Hackathons<br>🤝 I’m looking for help with Web3<br>🌱 I’m currently learning cloud <br>💬 Ask me about Frontend Development<br>
 
 
 ## 🌐 Socials:
